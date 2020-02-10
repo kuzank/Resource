@@ -6,12 +6,12 @@
 
 | Gitee前缀                                    | GitHub前缀                                                   |
 | -------------------------------------------- | ------------------------------------------------------------ |
-| https://gitee.com/kuzan/Resource/raw/master/ | https://raw.githubusercontent.com/danxiaogui/Resource/master/ |
+| https://gitee.com/kuzank/Resource/raw/master/ | https://raw.githubusercontent.com/kuzank/Resource/master/ |
 
 
 ### 例子 Snails/picture/a_login.jpg
-Gitee : https://gitee.com/kuzan/Resource/raw/master/Snails/picture/a_login.jpg
-![](https://gitee.com/kuzan/Resource/raw/master/Snails/picture/a_login.jpg)
+Gitee : https://gitee.com/kuzank/Resource/raw/master/Snails/picture/a_login.jpg
+![](https://gitee.com/kuzank/Resource/raw/master/Snails/picture/a_login.jpg)
 
-Github: https://raw.githubusercontent.com/danxiaogui/Resource/master/Snails/picture/a_login.jpg
-![](https://raw.githubusercontent.com/danxiaogui/Resource/master/Snails/picture/a_login.jpg)
+Github: https://raw.githubusercontent.com/kuzank/Resource/master/Snails/picture/a_login.jpg
+![](https://raw.githubusercontent.com/kuzank/Resource/master/Snails/picture/a_login.jpg)
