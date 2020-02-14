@@ -10,8 +10,8 @@
 
 
 ### 例子 Snails/picture/a_login.jpg
-Gitee : https://gitee.com/kuzank/Resource/raw/master/Snails/picture/a_login.jpg
-![](https://gitee.com/kuzank/Resource/raw/master/Snails/picture/a_login.jpg)
+Gitee : https://gitee.com/kuzank/Resource/raw/master/other/WeChatServer.jpg
+![](https://gitee.com/kuzank/Resource/raw/master/other/WeChatServer.jpg)
 
-Github: https://raw.githubusercontent.com/kuzank/Resource/master/Snails/picture/a_login.jpg
-![](https://raw.githubusercontent.com/kuzank/Resource/master/Snails/picture/a_login.jpg)
+Github: https://raw.githubusercontent.com/kuzank/Resource/master/other/WeChatServer.jpg
+![](https://raw.githubusercontent.com/kuzank/Resource/master/other/WeChatServer.jpg)
